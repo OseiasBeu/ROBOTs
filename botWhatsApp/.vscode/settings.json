@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:bot_whatsapp_envio_mensagens-master}/database/Base_de_Contatos.db",
+            "name": "WhatsppBot"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
